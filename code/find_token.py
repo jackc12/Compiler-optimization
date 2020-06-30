@@ -1,0 +1,1 @@
+find_token = lambda name, start, end: name[name.find(start) + len(start): name.find(end)]
